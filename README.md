@@ -2,11 +2,11 @@
 
 ### Day 0: October 15, 2021
 
-**Today's Progress** Setting up.
+**Today's Progress** Setting up. Reading through the Two Number Sum challenge.
 
-**Thoughts:** It was a struggle to wake up.
+**Thoughts:** It was a struggle thinking about how I want to organize my files now that I'm out of class. I deleted a repo unnecessarily. Eh, it's all good now.
 
-**Link to work:** [Place Holder] (http://www.jasonhargroveart.com)
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
 # Links
 
