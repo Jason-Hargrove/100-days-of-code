@@ -1,5 +1,13 @@
 # 100 Days Of Code - log
 
+### Day 1: October 16, 2021
+
+**Today's Progress** Worked on solving Two Number Sum with a for loop. Decided I should also try the same solve in Python. 
+
+**Thoughts:** I've been working in JavaScript for awhile, and want to improve, and I think I also want learn more about Python. After I solve the challenge in JavaScript, I'll try take the rest of my time and see how far I can get translating it into Python.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 0: October 15, 2021
 
 **Today's Progress** Setting up. Reading through the Two Number Sum challenge.
