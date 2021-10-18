@@ -1,5 +1,13 @@
 # 100 Days Of Code - log
 
+### Day 3: October 18, 2021
+
+**Today's Progress** Worked on solving Two Number Sum using pointers.
+
+**Thoughts:** Worked on time blocking my week, and nearly forgot about the challenge today. Translating this code form JS to Python was very difficult for me.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 2: October 17, 2021
 
 **Today's Progress** Worked on solving Two Number Sum with a hash table.
