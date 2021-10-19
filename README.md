@@ -1,5 +1,13 @@
 # 100 Days Of Code - log
 
+### Day 4: October 19, 2021
+
+**Today's Progress** Solved Validate Subsequence using a while loop and pointers.
+
+**Thoughts:** Got to it first thing this morning. It feels good having it out of the way.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 3: October 18, 2021
 
 **Today's Progress** Worked on solving Two Number Sum using pointers.
