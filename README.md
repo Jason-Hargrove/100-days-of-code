@@ -1,4 +1,12 @@
-# 100 Days Of Code - log
+# 100 Days Of Code - logs
+
+### Day 5: October 20, 2021
+
+**Today's Progress** Solved Validate Subsequence using a for of loop.
+
+**Thoughts:** If I finish a bit early - like I did on this one - and don't need to study deeper, I should spend the rest of my time on the whiteboard.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
 ### Day 4: October 19, 2021
 
