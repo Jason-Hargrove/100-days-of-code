@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 6: October 20, 2021
+
+**Today's Progress** Solved Sorted Squared Array using brute force.
+
+**Thoughts:** Working coding challenges first thing in the morning is the way to go. I need to work on some art today, and I have time blocked to start a small React project tonight.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 5: October 20, 2021
 
 **Today's Progress** Solved Validate Subsequence using a for of loop.
