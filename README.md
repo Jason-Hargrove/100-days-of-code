@@ -4,7 +4,7 @@
 
 **Today's Progress** Sorted Squared Array solved in liner time, sorted in ascending order.
 
-**Thoughts:** Having problems with typos this morning. It's easier finding the bigger ones.
+**Thoughts:** Having problems with small typos this morning. It's easier finding the bigger ones.
 
 **Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
