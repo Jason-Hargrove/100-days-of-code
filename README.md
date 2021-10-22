@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 7: October 22, 2021
+
+**Today's Progress** Sorted Squared Array solved in liner time, sorted in ascending order.
+
+**Thoughts:** Having problems with typos this morning. It's easier finding the bigger ones.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 6: October 20, 2021
 
 **Today's Progress** Solved Sorted Squared Array using brute force.
