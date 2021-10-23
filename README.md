@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 8: October 23, 2021
+
+**Today's Progress** Tournament Winner solved using a hash table an a helper function.
+
+**Thoughts:** Late start today. This one gave me a pounding headache, and I went over my allotted time.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 7: October 22, 2021
 
 **Today's Progress** Sorted Squared Array solved in liner time, sorted in ascending order.
