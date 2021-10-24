@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 9: October 24, 2021
+
+**Today's Progress** Solved Non-Constructible Change.
+
+**Thoughts:** Another late start. I need to blockout my study time on the weekends differently.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 8: October 23, 2021
 
 **Today's Progress** Tournament Winner solved using a hash table an a helper function.
