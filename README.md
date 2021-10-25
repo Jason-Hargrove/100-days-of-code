@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 10: October 25, 2021
+
+**Today's Progress** MDN A re-introduction to JavaScript. Partway through.
+
+**Thoughts:** A slight detour form coding challenges this morning - glad I did. Rediscovered a couple things I had totally forgotten about, and one thing I wish I had known about from the beginning.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 9: October 24, 2021
 
 **Today's Progress** Solved Non-Constructible Change.
