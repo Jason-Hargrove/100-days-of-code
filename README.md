@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 11: October 26, 2021
+
+**Today's Progress** Binary Search Tree Construction implemented iteratively. Can insert or search for nodes, but not remove at the moment.
+
+**Thoughts:** A subject I've felt apprehensive about. Turned out to be fun! The removal part is difficult, and I haven't got my head wrapped around it yet.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 10: October 25, 2021
 
 **Today's Progress** MDN A re-introduction to JavaScript. Partway through.
