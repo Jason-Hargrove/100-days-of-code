@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 12: October 27, 2021
+
+**Today's Progress** Added open graph meta tags to all projects. Troubleshot SSH and branch issues with GitHub.
+
+**Thoughts:** A roller coaster morning. It's works, but broke something else fixing it. Updated one thing, got to update all the other apps.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 11: October 26, 2021
 
 **Today's Progress** Binary Search Tree Construction implemented iteratively. Can insert or search for nodes, but not remove at the moment.
