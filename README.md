@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 13: October 28, 2021
+
+**Today's Progress** Binary Search Tree Construction. Insert, search and remove.
+
+**Thoughts:** Finally solved remove. It took a walkthrough, searching the web for examples, and an hour of troubleshooting.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 12: October 27, 2021
 
 **Today's Progress** Added open graph meta tags to all projects. Troubleshot SSH and branch issues with GitHub.
