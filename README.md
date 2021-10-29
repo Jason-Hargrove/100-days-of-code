@@ -4,7 +4,7 @@
 
 **Today's Progress** Find Closest Value in a BST. Haven't go it to work yet. Solving recursively.
 
-**Thoughts:** I went over my allotted time today. I'll pick it back up in the morning. Nope, it's not working right - not working at all. lol I've spent the last 20 minutes troubleshooting.
+**Thoughts:** I went over my allotted time today. I'll pick it back up in the morning. Nope, it's not working right - not working at all.
 
 **Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
