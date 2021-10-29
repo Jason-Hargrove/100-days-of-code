@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 14: October 20, 2021
+
+**Today's Progress** Find Closest Value in a BST. Haven't go it to work yet. Solving recursively.
+
+**Thoughts:** I went over my allotted time today. I'll pick it back up in the morning. Nope, it's not working right - not working at all. lol I've spent the last 20 minutes troubleshooting.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 13: October 28, 2021
 
 **Today's Progress** Binary Search Tree Construction. Insert, search and remove.
