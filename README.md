@@ -1,6 +1,14 @@
 # 100 Days Of Code - logs
 
-### Day 14: October 20, 2021
+### Day 15: October 30, 2021
+
+**Today's Progress** Find Closest Value in a BST. Solved recursively and iteratively.
+
+**Thoughts:** It's gloomy and cold. Got a late start today and I don't regret it. 
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
+### Day 14: October 29, 2021
 
 **Today's Progress** Find Closest Value in a BST. Haven't go it to work yet. Solving recursively.
 
