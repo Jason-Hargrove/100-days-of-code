@@ -1,10 +1,18 @@
 # 100 Days Of Code - logs
 
+### Day 16: October 31, 2021
+
+**Today's Progress** MDN A re-introduction to JavaScript. Strings and other types.
+
+**Thoughts:** This was good for me and fun. Even though I blocked time for coding today, it was very challenging to get started with all the Halloween stuff going on. Got it done!
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 15: October 30, 2021
 
 **Today's Progress** Find Closest Value in a BST. Solved recursively and iteratively.
 
-**Thoughts:** It's gloomy and cold. Got a late start today and I don't regret it. 
+**Thoughts:** It's gloomy and cold. Got a late start today and I don't regret it.
 
 **Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
