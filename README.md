@@ -4,7 +4,7 @@
 
 **Today's Progress** MDN A re-introduction to JavaScript. Variables, operators and scope.
 
-**Thoughts:** I keep learning things I'd forgotten with the MDN re-intro. Had few unplanned priorities popped up this morning - couldn't get to coding first thing. Replanning my week now.
+**Thoughts:** I keep learning things I'd forgotten with the MDN re-intro. Unplanned priorities came up this morning - couldn't code first thing. Replanning my week now.
 
 **Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
