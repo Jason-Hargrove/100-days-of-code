@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 17: November 1, 2021
+
+**Today's Progress** MDN A re-introduction to JavaScript. Variables, operators and scope.
+
+**Thoughts:** I keep learning things I'd forgotten with the MDN re-intro. Had few unplanned priorities popped up this morning - couldn't get to coding first thing. Replanning my week now.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 16: October 31, 2021
 
 **Today's Progress** MDN A re-introduction to JavaScript. Strings and other types.
