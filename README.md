@@ -1,4 +1,13 @@
 # 100 Days Of Code - logs
+Implementing a Binary Search Tree. Working on it.
+
+### Day 18: November 2, 2021
+
+**Today's Progress** Implementing a binary search tree - working on it. Went to the Free Intro to Python | Online Class from General Assembly. Got to use Jupyter Notebook for the first time.  
+
+**Thoughts:** Didn't get the BST completed - that's ok. Jupyter Notebook was alright.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
 ### Day 17: November 1, 2021
 
