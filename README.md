@@ -1,5 +1,12 @@
 # 100 Days Of Code - logs
-Implementing a Binary Search Tree. Working on it.
+
+### Day 19: November 2, 2021
+
+**Today's Progress** Implemented a BST recursively. Can add, remove, find min, find max, is present, and tested.
+
+**Thoughts:** Spent some time troubleshooting removal. Feeling a bit better about BSTs now.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
 ### Day 18: November 2, 2021
 
