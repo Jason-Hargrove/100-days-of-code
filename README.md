@@ -1,6 +1,14 @@
 # 100 Days Of Code - logs
 
-### Day 19: November 2, 2021
+### Day 20: November 4, 2021
+
+**Today's Progress** MDN a re-introduction to JavaScript. Control structures.
+
+**Thoughts:** Some quality time with the basics. Off to a good start today.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
+### Day 19: November 3, 2021
 
 **Today's Progress** Implemented a BST recursively. Can add, remove, find min, find max, is present, and tested.
 
