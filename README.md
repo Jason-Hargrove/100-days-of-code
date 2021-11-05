@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 21: November 5, 2021
+
+**Today's Progress** Recap of big O time complexity and analyzing the performance of objects.
+
+**Thoughts:** Early start, and spent some extra time coding. Going to GA Free Friday workshop tonight out of curiosity. Visual Design 101.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 20: November 4, 2021
 
 **Today's Progress** MDN a re-introduction to JavaScript. Control structures.
