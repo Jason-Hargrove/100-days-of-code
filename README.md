@@ -1,12 +1,21 @@
 # 100 Days Of Code - logs
 
+### Day 22: November 6, 2021
+
+**Today's Progress** Analyzing the performance of arrays.
+
+**Thoughts:** I feel a little bit better about big O each time I study it.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
+
 ### Day 21: November 5, 2021
 
 **Today's Progress** Recap of big O time complexity and analyzing the performance of objects.
 
 **Thoughts:** Early start, and spent some extra time coding. Going to GA Free Friday workshop tonight out of curiosity. Visual Design 101.
 
-**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+**Link to work:** [js-algo-and-data-structures] (https://github.com/Jason-Hargrove/js-algo-and-data-structures.git)
 
 ### Day 20: November 4, 2021
 
