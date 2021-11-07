@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 23: November 7, 2021
+
+**Today's Progress** Studied algorithms and problem solving patterns. Understanding the problem and exploring concrete examples.
+
+**Thoughts:** I should have done this long ago - would have made my life easier.
+
+**Link to work:** [js-algo-and-data-structures] (https://github.com/Jason-Hargrove/js-algo-and-data-structures.git)
+
 ### Day 22: November 6, 2021
 
 **Today's Progress** Analyzing the performance of arrays.
