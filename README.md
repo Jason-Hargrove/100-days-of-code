@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 24: November 8, 2021
+
+**Today's Progress** MDN A re-introduction to JavaScript. Objects.
+
+**Thoughts:** This part seemed a bit too easy. I had to come up with a few ways to make it uncomfortable.
+
+**Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
+
 ### Day 23: November 7, 2021
 
 **Today's Progress** Studied algorithms and problem solving patterns. Understanding the problem and exploring concrete examples.
@@ -15,7 +23,6 @@
 **Thoughts:** I feel a little bit better about big O each time I study it.
 
 **Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
-
 
 ### Day 21: November 5, 2021
 
