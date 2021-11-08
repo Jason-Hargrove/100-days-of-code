@@ -4,7 +4,7 @@
 
 **Today's Progress:** MDN A re-introduction to JavaScript. Objects.
 
-**Thoughts:** This part seemed a bit too easy. I had to come up with a few ways to make it uncomfortable.
+**Thoughts:** This part seemed a bit too easy. I came up with a few ways to make it uncomfortable.
 
 **Link to work:** [coding-challenges] (https://github.com/Jason-Hargrove/coding-challenges.git)
 
