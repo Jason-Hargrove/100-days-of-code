@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 25: November 9, 2021
+
+**Today's Progress:** Setup for a small project using JavaScript, CSS, and HTML. Added images and CSS animation.
+
+**Thoughts:** Studying is good, but I need to have a project going as well.
+
+**Link to work:** [radioactive-ocean] (https://github.com/Jason-Hargrove/radioactive-ocean.git)
+
 ### Day 24: November 8, 2021
 
 **Today's Progress:** MDN A re-introduction to JavaScript. Objects.
