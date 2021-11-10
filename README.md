@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 26: November 10, 2021
+
+**Today's Progress:** Added more CSS animation, HTML, and used the fetch API.
+
+**Thoughts:** This has helped me with my current art project. I can turn the same images that I'm going to use into stencils for my art. Got to make time to create the images.
+
+**Link to work:** [radioactive-ocean] (https://github.com/Jason-Hargrove/radioactive-ocean.git)
+
 ### Day 25: November 9, 2021
 
 **Today's Progress:** Setup for a small project using JavaScript, CSS, and HTML. Added images and CSS animation.
