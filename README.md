@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 27: November 11, 2021
+
+**Today's Progress:** React Day. Holding an array in state. Made too much state then simplified. Lifted up state in an accordion.
+
+**Thoughts:** I'm loving this CSS project I've been working on, but I don't want to get rusty with React.
+
+**Link to work:** [beta-reactjs] (https://github.com/Jason-Hargrove/beta-reactjs.git)
+
 ### Day 26: November 10, 2021
 
 **Today's Progress:** Added more CSS animation, HTML, and used the fetch API.
