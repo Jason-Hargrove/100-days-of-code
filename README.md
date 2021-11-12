@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 28: November 12, 2021
+
+**Today's Progress:** Broke UI design into component hierarchy using Affinity Designer. Started a static version in React.
+
+**Thoughts:** Working bottom up, or top down?
+
+**Link to work:** [beta-reactjs] (https://github.com/Jason-Hargrove/beta-reactjs.git)
+
 ### Day 27: November 11, 2021
 
 **Today's Progress:** React Day. Holding an array in state. Made too much state then simplified. Lifted up state in an accordion.
