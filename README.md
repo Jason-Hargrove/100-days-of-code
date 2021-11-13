@@ -2,7 +2,7 @@
 
 ### Day 29: November 13, 2021
 
-**Today's Progress:** Angular task tracker. Setup, created a header and button component. Past data with input binding. Troubleshot TypeScript.
+**Today's Progress:** Angular task tracker. Setup, created a header and button component. Passed data with input binding. Troubleshot TypeScript.
 
 **Thoughts:** Very challenging, and fun! Had to change Node.js versions with n. Got hung up troubleshooting TS. The fix was setting the properties to an empty string.
 
