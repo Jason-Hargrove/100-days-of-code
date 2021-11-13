@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 29: November 13, 2021
+
+**Today's Progress:** Angular task tracker. Setup, created a header and button component. Past data with input binding. Troubleshot TypeScript.
+
+**Thoughts:** Very challenging, and fun! Had to change Node.js versions with n. Got hung up troubleshooting TS. The fix was setting the properties to an empty string.
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 28: November 12, 2021
 
 **Today's Progress:** Broke UI design into component hierarchy using Affinity Designer. Started a static version in React.
