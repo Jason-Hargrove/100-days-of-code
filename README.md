@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 30: November 14, 2021
+
+**Today's Progress:** Troubleshot TypeScript. Worked with EventEmitter and Output. Made interface for tasks.
+
+**Thoughts:** My Google-Fu was strong today - more trouble with TS.
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 29: November 13, 2021
 
 **Today's Progress:** Angular task tracker. Setup, created a header and button component. Passed data with input binding. Troubleshot TypeScript.
