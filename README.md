@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 31: November 15, 2021
+
+**Today's Progress:** Used ngFor on mock file. Created a task-item component and styled with css and ngStyle. Used angualr-fontawesome.
+
+**Thoughts:** a lot of aha moments today.
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 30: November 14, 2021
 
 **Today's Progress:** Troubleshot TypeScript. Worked with EventEmitter and Output. Made interface for tasks.
