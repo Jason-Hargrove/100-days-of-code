@@ -1,5 +1,10 @@
 # 100 Days Of Code - logs
 
+### Day 32: November 16, 2021
+
+**Today's Progress:** Mintbean hackathon. With a UX designer and another software engineer. In the planning phase, creating issues in JIRA.
+**Thoughts:** This is new territory, but it seems fun! Build an app that lets people express their creativity in a visual format. 
+
 ### Day 31: November 15, 2021
 
 **Today's Progress:** Used ngFor on mock file. Created a task-item component and styled with css and ngStyle. Used angualr-fontawesome.
