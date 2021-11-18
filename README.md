@@ -1,9 +1,16 @@
 # 100 Days Of Code - logs
 
+### Day 33: November 17, 2021
+
+**Today's Progress:** Mintbean hackathon day 2. Got a React site up and going, and created a HTML, CSS, JS landing page.
+**Thoughts:** I'm posting this a day late - not in a good spot mentally - lost half my chickens last night to coyotes.
+
+**Link to work:** [mandela-effect] (https://github.com/mandela-effect/mandela-effect.git)
+
 ### Day 32: November 16, 2021
 
 **Today's Progress:** Mintbean hackathon. With a UX designer and another software engineer. In the planning phase, creating issues in JIRA.
-**Thoughts:** This is new territory, but it seems fun! Build an app that lets people express their creativity in a visual format. 
+**Thoughts:** This is new territory, but it seems fun! Build an app that lets people express their creativity in a visual format.
 
 ### Day 31: November 15, 2021
 
