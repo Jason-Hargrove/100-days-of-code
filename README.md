@@ -1,5 +1,10 @@
 # 100 Days Of Code - logs
 
+### Day 35: November 19, 2021
+
+**Today's Progress:** Dependency injection in JavaScript and Mintbean hackaton day 4.
+**Thoughts:** Got derailed today. Some unplanned priorities popped up - got things mitigated.
+
 ### Day 34: November 18, 2021
 
 **Today's Progress:** Mintbean hackathon day 3. Got our git flow straight, UX showed us the Lofi last night, created a new React site with SASS and a backend.
