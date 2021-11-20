@@ -1,9 +1,9 @@
 # 100 Days Of Code - logs
 
-### Day 35: November 20, 2021
+### Day 36: November 20, 2021
 
 **Today's Progress:** Mintbean hackathon day 5. Formatted, plugged in content and generally styled.
-**Thoughts:** Didn't gain much ground this morning, but this afternoon was ver productive.
+**Thoughts:** Didn't gain much ground this morning, but this afternoon was very productive.
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
 
