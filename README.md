@@ -2,6 +2,13 @@
 
 ### Day 36: November 20, 2021
 
+**Today's Progress:** Mintbean hackathon day 6. Landing is basically done. Needs to be a bit more mobile friendly.
+**Thoughts:** This past week has been crazy.
+
+**Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
+
+### Day 36: November 20, 2021
+
 **Today's Progress:** Mintbean hackathon day 5. Formatted, plugged in content and generally styled.
 **Thoughts:** Didn't gain much ground this morning, but this afternoon was very productive.
 
