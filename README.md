@@ -1,6 +1,6 @@
 # 100 Days Of Code - logs
 
-### Day 36: November 20, 2021
+### Day 37: November 21, 2021
 
 **Today's Progress:** Mintbean hackathon day 6. Landing is basically done. Needs to be a bit more mobile friendly.
 **Thoughts:** This past week has been crazy.
