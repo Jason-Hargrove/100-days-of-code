@@ -3,7 +3,7 @@
 ### Day 39: November 23, 2021
 
 **Today's Progress:** Mintbean hackathon day 8. Troubleshot media queries and set up dark mode in React.
-**Thoughts:** It's amazing how the absence of a "}" can mess everything up. Pretty exited to be hitting the road - headed to Nashville for a concert!
+**Thoughts:** It's amazing how the absence of a "}" can mess everything up. Pretty exited to be hitting the road - headed to Nashville!
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
 
