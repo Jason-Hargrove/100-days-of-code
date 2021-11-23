@@ -1,5 +1,12 @@
 # 100 Days Of Code - logs
 
+### Day 38: November 22, 2021
+
+**Today's Progress:** Mintbean hackathon day 7. Media queries and more CSS. Added links.
+**Thoughts:** Maybe I'm being to nit-picky at this point. I wan't it pixel perfect.
+
+**Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
+
 ### Day 37: November 21, 2021
 
 **Today's Progress:** Mintbean hackathon day 6. Landing is basically done. Needs to be a bit more mobile friendly.
