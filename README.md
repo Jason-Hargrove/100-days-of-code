@@ -1,5 +1,12 @@
 # 100 Days Of Code - logs
 
+### Day 40: November 24, 2021
+
+**Today's Progress:** Mintbean hackaton day 9 - extension. Added some text and styled.
+**Thoughts:** Been on the road most of the day.
+
+**Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
+
 ### Day 39: November 23, 2021
 
 **Today's Progress:** Mintbean hackathon day 8. Troubleshot media queries and set up dark mode in React.
