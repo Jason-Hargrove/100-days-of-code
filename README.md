@@ -1,5 +1,12 @@
 # 100 Days Of Code - logs
 
+### Day 41: November 25, 2021
+
+**Today's Progress:** Mintbean hackaton day 10 - extension. Turned the project in.
+**Thoughts:** Our team created something beautiful and fun!
+
+**Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
+
 ### Day 40: November 24, 2021
 
 **Today's Progress:** Mintbean hackaton day 9 - extension. Added some text and styled.
