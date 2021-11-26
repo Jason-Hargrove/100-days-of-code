@@ -1,5 +1,12 @@
 # 100 Days Of Code - logs
 
+### Day 42: November 26, 2021
+
+**Today's Progress:** JavaScript practice.
+**Thoughts:** Don't want to get rusty.
+
+**Link to work:** [12-important-js-functions] (https://github.com/Jason-Hargrove/12-important-js-functions.git)
+
 ### Day 41: November 25, 2021
 
 **Today's Progress:** Mintbean hackaton day 10 - extension. Turned the project in.
