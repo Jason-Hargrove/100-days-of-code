@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 43: November 27, 2021
+
+**Today's Progress:** Angular. Added a service, changed out some code, and troubleshot TypeScript.
+
+**Thoughts:** Feels so good when if finally works!
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 42: November 26, 2021
 
 **Today's Progress:** JavaScript practice.
