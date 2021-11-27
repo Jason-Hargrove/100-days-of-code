@@ -4,7 +4,7 @@
 
 **Today's Progress:** Angular. Added a service, changed out some code, and troubleshot TypeScript.
 
-**Thoughts:** Angualr makes so many files - got feel out the big picture and not get lost in the details.
+**Thoughts:** Angular makes so many files - got feel out the big picture and not get lost in the details.
 
 **Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
 
