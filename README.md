@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 44: November 27, 2021
+
+**Today's Progress:** Angular. Made observable, used of, subscribed, and installed json server.
+
+**Thoughts:** Didn't get to it first thing - wish I had.
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 43: November 27, 2021
 
 **Today's Progress:** Angular. Added a service, changed out some code, and troubleshot TypeScript.
