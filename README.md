@@ -1,6 +1,12 @@
 # 100 Days Of Code - logs
 
-### Day 44: November 27, 2021
+### Day 45: November 29, 2021
+
+**Today's Progress:** Angular task tracker. Working with HttpClientModule. No longer need mock tasks. Finished delete.
+
+**Thoughts:** Easier time focusing today. Thought it would be worse since I'm cutting down on the caffeine.
+
+### Day 44: November 28, 2021
 
 **Today's Progress:** Angular. Made observable, used of, subscribed, and installed json server.
 
