@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 46: November 30, 2021
+
+**Today's Progress:** Angular task tracker. Added reminder bar. Started working on adding tasks.
+
+**Thoughts:** I wonder if the way I'm fixing my TS bugs is really fixing the overall issue, or causing more issues down the line.
+
 ### Day 45: November 29, 2021
 
 **Today's Progress:** Angular task tracker. Working with HttpClientModule. No longer need mock tasks. Finished delete.
