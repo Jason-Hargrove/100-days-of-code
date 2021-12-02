@@ -1,16 +1,28 @@
 # 100 Days Of Code - logs
 
+### Day 47: December 1, 2021
+
+**Today's Progress:** Finished Angular task tracker.
+
+**Thoughts:** Way more difficult than React.
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 46: November 30, 2021
 
 **Today's Progress:** Angular task tracker. Added reminder bar. Started working on adding tasks.
 
 **Thoughts:** I wonder if the way I'm fixing my TS bugs is really fixing the overall issue, or causing more issues down the line.
 
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
+
 ### Day 45: November 29, 2021
 
 **Today's Progress:** Angular task tracker. Working with HttpClientModule. No longer need mock tasks. Finished delete.
 
 **Thoughts:** Easier time focusing today. Thought it would be worse since I'm cutting down on the caffeine.
+
+**Link to work:** [angular-crash] (https://github.com/Jason-Hargrove/angular-crash.git)
 
 ### Day 44: November 28, 2021
 
@@ -31,6 +43,7 @@
 ### Day 42: November 26, 2021
 
 **Today's Progress:** JavaScript practice.
+
 **Thoughts:** Don't want to get rusty.
 
 **Link to work:** [12-important-js-functions] (https://github.com/Jason-Hargrove/12-important-js-functions.git)
@@ -38,6 +51,7 @@
 ### Day 41: November 25, 2021
 
 **Today's Progress:** Mintbean hackaton day 10 - extension. Turned the project in.
+
 **Thoughts:** Our team created something beautiful and fun!
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
@@ -45,6 +59,7 @@
 ### Day 40: November 24, 2021
 
 **Today's Progress:** Mintbean hackaton day 9 - extension. Added some text and styled.
+
 **Thoughts:** Been on the road most of the day.
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
@@ -52,6 +67,7 @@
 ### Day 39: November 23, 2021
 
 **Today's Progress:** Mintbean hackathon day 8. Troubleshot media queries and set up dark mode in React.
+
 **Thoughts:** It's amazing how the absence of a "}" can mess everything up. Pretty exited to be hitting the road - headed to Nashville!
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
@@ -59,6 +75,7 @@
 ### Day 38: November 22, 2021
 
 **Today's Progress:** Mintbean hackathon day 7. Media queries and more CSS. Added links.
+
 **Thoughts:** Maybe I'm being to nit-picky at this point. I wan't it pixel perfect.
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
@@ -66,6 +83,7 @@
 ### Day 37: November 21, 2021
 
 **Today's Progress:** Mintbean hackathon day 6. Landing is basically done. Needs to be a bit more mobile friendly.
+
 **Thoughts:** This past week has been crazy.
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
@@ -73,6 +91,7 @@
 ### Day 36: November 20, 2021
 
 **Today's Progress:** Mintbean hackathon day 5. Formatted, plugged in content and generally styled.
+
 **Thoughts:** Didn't gain much ground this morning, but this afternoon was very productive.
 
 **Link to work:** [mandala-effect] (https://github.com/mandala-effect/mandala-effect-app.git)
@@ -80,11 +99,13 @@
 ### Day 35: November 19, 2021
 
 **Today's Progress:** Dependency injection in JavaScript and Mintbean hackaton day 4.
+
 **Thoughts:** Got derailed today. Some unplanned priorities popped up - got things mitigated.
 
 ### Day 34: November 18, 2021
 
 **Today's Progress:** Mintbean hackathon day 3. Got our git flow straight, UX showed us the Lofi last night, created a new React site with SASS and a backend.
+
 **Thoughts:** Had to scrap what I was working on yesterday, but it's for the better. I think it's going in a positive direction.
 
 **Link to work:** [mandela-effect] (https://github.com/mandela-effect/mandela-effect.git)
@@ -92,6 +113,7 @@
 ### Day 33: November 17, 2021
 
 **Today's Progress:** Mintbean hackathon day 2. Got a React site up and going, and created a HTML, CSS, JS landing page.
+
 **Thoughts:** I'm posting this a day late - not in a good spot mentally - lost half my chickens last night to coyotes.
 
 **Link to work:** [mandela-effect] (https://github.com/mandela-effect/mandela-effect.git)
@@ -99,6 +121,7 @@
 ### Day 32: November 16, 2021
 
 **Today's Progress:** Mintbean hackathon. With a UX designer and another software engineer. In the planning phase, creating issues in JIRA.
+
 **Thoughts:** This is new territory, but it seems fun! Build an app that lets people express their creativity in a visual format.
 
 ### Day 31: November 15, 2021
