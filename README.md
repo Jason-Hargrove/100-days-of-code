@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 49: December 3, 2021
+
+**Today's Progress:** Breaking down JavaScript problems and solve/simplify.
+
+**Thoughts:** Trying out Webstorm - I'm digging it.
+
+**Link to work:** [js-algo-and-data-structures] (https://github.com/Jason-Hargrove/js-algo-and-data-structures.git)
+
 ### Day 48: December 2, 2021
 
 **Today's Progress:** Finished "How to Create an Ocean With CSS/JavaScrip". Added icons and animation.
