@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 48: December 2, 2021
+
+**Today's Progress:** Finished "How to Create an Ocean With CSS/JavaScrip". Added icons and animation.
+
+**Thoughts:** Had a hard time getting started today - got a COVID booster yesterday and feel achy and worn out. I've left a lot of projects unfinished. Had a lot of fun with this one, and now I'm going to put my spin on it.
+
+**Link to work:** [radioactive-ocean] (https://github.com/Jason-Hargrove/radioactive-ocean.git)
+
 ### Day 47: December 1, 2021
 
 **Today's Progress:** Finished Angular task tracker.
