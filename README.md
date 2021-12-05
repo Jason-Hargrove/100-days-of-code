@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 51: December 5, 2021
+
+**Today's Progress:** Working with frequency counters.
+
+**Thoughts:** Studying problem-solving pattens.
+
+**Link to work:** [js-algo-and-data-structures] (https://github.com/Jason-Hargrove/js-algo-and-data-structures.git
+
 ### Day 50: December 4, 2021
 
 **Today's Progress:** Refactored function replacing for loop with for of, shortened if else statement, replaced regex with mathematical comparison using character code.
