@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 52: December 6, 2021
+
+**Today's Progress:** Working with frequency counters.
+
+**Thoughts:** More in depth.
+
+**Link to work:** [js-algo-and-data-structures] (https://github.com/Jason-Hargrove/js-algo-and-data-structures.git
+
 ### Day 51: December 5, 2021
 
 **Today's Progress:** Working with frequency counters.
