@@ -1,10 +1,18 @@
 # 100 Days Of Code - logs
 
+### Day 54: December 8, 2021
+
+**Today's Progress:** Searchable product data table with React. Static version complete.
+
+**Thoughts:** Felt a bit rushed today - absolutely self-imposed.
+
+**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/thinking-in-react.git)
+
 ### Day 53: December 7, 2021
 
 **Today's Progress:** Studied React price list / item search app. Working on static version.
 
-**Thoughts:** Using Webstorm this week. Not missing VS Code or Atom. Didn't leave myself good notes. Took time making a plan / studying the code.
+**Thoughts:** Using WebStorm this week. Not missing VS Code or Atom. Didn't leave myself good notes. Took time making a plan / studying the code.
 
 **Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/thinking-in-react.git)
 
@@ -36,7 +44,7 @@
 
 **Today's Progress:** Breaking down JavaScript problems and solve/simplify.
 
-**Thoughts:** Trying out Webstorm - I'm digging it.
+**Thoughts:** Trying out WebStorm - I'm digging it.
 
 **Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/js-algo-and-data-structures.git)
 
