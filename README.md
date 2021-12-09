@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 55: December 9, 2021
+
+**Today's Progress:** Searchable product data table with React. Found minimal representation of UI state, and added inverse data flow.
+
+**Thoughts:** On to the next thing.
+
+**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/thinking-in-react.git)
+
 ### Day 54: December 8, 2021
 
 **Today's Progress:** Searchable product data table with React. Static version complete.
