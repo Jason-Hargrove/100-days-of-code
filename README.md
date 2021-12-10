@@ -1,5 +1,14 @@
 # 100 Days Of Code - logs
 
+### Day 56: December 10, 2021
+
+**Today's Progress:** Foreach and filter practice.
+
+**Thoughts:** Brushing up, and practicing some new tricks. New to me anyway.
+
+**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/map-filter-reduce-foreach.git)
+
+
 ### Day 55: December 9, 2021
 
 **Today's Progress:** Searchable product data table with React. Found minimal representation of UI state, and added inverse data flow.
