@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 57: December 11, 2021
+
+**Today's Progress:** Mayfield KY, and power is out. Set up Ubuntu laptop, installed Nodejs, and configured network card. Configured SSH for GitHub. Made a new repository, and worked on filter briefly.
+
+**Thoughts:** Tornado came through town last night. Coding at a friends house in Paducah KY. Found a little time for coding with all the new priorities. Hopefully I can find some time tomorrow.
+
+**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/imporve-your-javascript.git)
+
 ### Day 56: December 10, 2021
 
 **Today's Progress:** Foreach and filter practice.
@@ -53,7 +61,7 @@
 
 **Today's Progress:** Refactored function replacing for loop with for of, shortened if else statement, replaced regex with mathematical comparison using character code.
 
-**Thoughts:** I should block time to go back and refactor old projects. 
+**Thoughts:** I should block time to go back and refactor old projects.
 
 **Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/js-algo-and-data-structures.git)
 
