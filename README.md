@@ -6,7 +6,7 @@
 
 **Thoughts:** Tornado came through town last night. Coding at a friends house in Paducah KY. Found a little time for coding with all the new priorities. Hopefully I can find some time tomorrow.
 
-**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/imporve-your-javascript.git)
+**Link to work:** [improve-your-javascript](https://github.com/Jason-Hargrove/imporve-your-javascript.git)
 
 ### Day 56: December 10, 2021
 
@@ -14,7 +14,7 @@
 
 **Thoughts:** Brushing up, and practicing some new tricks. New to me anyway.
 
-**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/map-filter-reduce-foreach.git)
+**Link to work:** [map-filter-reduce-foreah](https://github.com/Jason-Hargrove/map-filter-reduce-foreach.git)
 
 
 ### Day 55: December 9, 2021
@@ -23,7 +23,7 @@
 
 **Thoughts:** On to the next thing.
 
-**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/thinking-in-react.git)
+**Link to work:** [thinking-in-react](https://github.com/Jason-Hargrove/thinking-in-react.git)
 
 ### Day 54: December 8, 2021
 
@@ -31,7 +31,7 @@
 
 **Thoughts:** Felt a bit rushed today - absolutely self-imposed.
 
-**Link to work:** [js-algo-and-data-structures](https://github.com/Jason-Hargrove/thinking-in-react.git)
+**Link to work:** [thinking-in-react](https://github.com/Jason-Hargrove/thinking-in-react.git)
 
 ### Day 53: December 7, 2021
 
