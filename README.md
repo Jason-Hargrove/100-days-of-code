@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 58: December 12, 2021
+
+**Today's Progress:** Day 2 after Tornado. Power still out. Worked with array/object destructuring, renaming variables during, directly chaining an await clause.
+
+**Thoughts:** Hanging out at a coffee shop in Paducah for the WiFi. Fixing to go home and throw everything in the freezer away, sort through stuff, and start sawing up trees.
+
+**Link to work:** [improve-your-javascript](https://github.com/Jason-Hargrove/imporve-your-javascript.git)
+
 ### Day 57: December 11, 2021
 
 **Today's Progress:** Mayfield KY, and power is out. Set up Ubuntu laptop, installed Nodejs, and configured network card. Configured SSH for GitHub. Made a new repository, and worked on filter briefly.
