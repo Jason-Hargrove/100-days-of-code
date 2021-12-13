@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 59: December 13, 2021
+
+**Today's Progress:** Day 3 after Tornado. No power still. Studied map(), filter(), reduce(). Fixing up Ubuntu for job interview.
+
+**Thoughts:** Nothing crazy today. Just trying to stay warm.
+
+**Link to work:** [map-filter-reduce-foreach](https://github.com/Jason-Hargrove/map-filter-reduce-foreach.git)
+
 ### Day 58: December 12, 2021
 
 **Today's Progress:** Day 2 after Tornado. Power still out. Worked with array/object destructuring, renaming variables during, directly chaining an await clause.
