@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 60: December 14, 2021
+
+**Today's Progress:** Day 4 after Tornado. Power and internet service on. Spent the majority of my time in the terminal dealing with NPM. Created a React app and one component.
+
+**Thoughts:** It's good to be back at the house tonight! 
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 59: December 13, 2021
 
 **Today's Progress:** Day 3 after Tornado. No power still. Studied map(), filter(), reduce(). Fixing up Ubuntu for job interview.
