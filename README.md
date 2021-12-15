@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 61: December 15, 2021
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 60: December 14, 2021
 
 **Today's Progress:** Day 4 after Tornado. Power and internet service on. Spent the majority of my time in the terminal dealing with NPM. Created a React app and one component.
