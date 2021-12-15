@@ -2,9 +2,9 @@
 
 ### Day 61: December 15, 2021
 
-**Today's Progress:** 
+**Today's Progress:** React challenges. Importing and exporting components, spotting mistakes.
 
-**Thoughts:** 
+**Thoughts:** Think I'm going keep working with React for the next few days.
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
