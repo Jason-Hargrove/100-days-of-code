@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 62: December 16, 2021
+
+**Today's Progress:** React. Splitting components further using default and named exports.
+
+**Thoughts:** More React challenges. Didn't get too deep today.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 61: December 15, 2021
 
 **Today's Progress:** React challenges. Importing and exporting components, spotting mistakes.
