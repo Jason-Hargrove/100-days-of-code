@@ -1,10 +1,10 @@
 # 100 Days Of Code - logs
 
-### Day 63: December 17, 2021
+### Day 64: December 18, 2021
 
-**Today's Progress:** React. Created new components and converted HTML to JSX.
+**Today's Progress:** React. 
 
-**Thoughts:** More React challenges.
+**Thoughts:** 
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
