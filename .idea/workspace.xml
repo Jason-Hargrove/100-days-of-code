@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 64. React challenges. JS in JSX with curly braces." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21hHxJpxkUZ2jnYwhKuESHbj4fG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="" />
+      <created>1638386643618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638386643618</updated>
+      <workItem from="1638386647015" duration="60000" />
+      <workItem from="1638386728210" duration="84000" />
+      <workItem from="1638387173449" duration="1575000" />
+      <workItem from="1638490404608" duration="695000" />
+      <workItem from="1638574600089" duration="743000" />
+      <workItem from="1638634595738" duration="113000" />
+      <workItem from="1638634791067" duration="831000" />
+      <workItem from="1638721176460" duration="1275000" />
+      <workItem from="1638809558771" duration="857000" />
+      <workItem from="1638888722834" duration="605000" />
+      <workItem from="1638909777360" duration="1539000" />
+      <workItem from="1639003658482" duration="1394000" />
+      <workItem from="1639057563092" duration="849000" />
+      <workItem from="1639173938311" duration="448000" />
+      <workItem from="1639538498168" duration="968000" />
+      <workItem from="1639577608842" duration="654000" />
+      <workItem from="1639599274320" duration="1575000" />
+      <workItem from="1639711004390" duration="791000" />
+      <workItem from="1639787216349" duration="756000" />
+      <workItem from="1639835012993" duration="1789000" />
+    </task>
+    <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
+      <created>1638412366380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638412366380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 48. Finished tutorial.">
+      <created>1638491027947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638491027947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day. 49. Breaking down JS problems and solve/simplify.">
+      <created>1638574945882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638574945882</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 50. Refactored function.">
+      <created>1638639020883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638639020883</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 51. Working with frequency counters.">
+      <created>1638723289350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638723289350</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 52. Working with frequency counters.">
+      <created>1638814696913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638814696913</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day 53. Studied React price list / item search app. Working on static version.">
+      <created>1638912576006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638912576006</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 53. Searchable product data table with React. Static version complete.">
+      <created>1639004593419</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639004593419</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day 55. Searchable product data table with React. Found minimal representation of UI state, and added inverse data flow.">
+      <created>1639060857590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639060857590</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Day 56. Foreach and filter practice.">
+      <created>1639174219371</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639174219371</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day 60. NPM, created a React app, and one component.">
+      <created>1639538999078</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639538999078</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Setup for day 61.">
+      <created>1639577700087</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639577700087</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Setup for day 61. React Challenges.">
+      <created>1639602867742</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639602867742</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Setup for day 62. React Challenges.">
+      <created>1639713910060</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639713910060</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Day 63. React. New components and converted HTML to JSX.">
+      <created>1639789524433</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639789524433</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Day 64. Setup for day 64.">
+      <created>1639836364245</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639836364245</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Day 64. React challenges. JS in JSX with curly braces.">
+      <created>1639840912209</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639840912209</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 47. Finished Angular task tracker." />
+    <MESSAGE value="Day 48. Finished tutorial." />
+    <MESSAGE value="Day. 49. Breaking down JS problems and solve/simplify." />
+    <MESSAGE value="Day 50. Refactored function." />
+    <MESSAGE value="Day 51. Working with frequency counters." />
+    <MESSAGE value="Day 52. Working with frequency counters." />
+    <MESSAGE value="Day 53. Studied React price list / item search app. Working on static version." />
+    <MESSAGE value="Day 53. Searchable product data table with React. Static version complete." />
+    <MESSAGE value="Day 55. Searchable product data table with React. Found minimal representation of UI state, and added inverse data flow." />
+    <MESSAGE value="Day 56. Foreach and filter practice." />
+    <MESSAGE value="Day 60. NPM, created a React app, and one component." />
+    <MESSAGE value="Setup for day 61." />
+    <MESSAGE value="Setup for day 61. React Challenges." />
+    <MESSAGE value="Setup for day 62. React Challenges." />
+    <MESSAGE value="Day 63. React. New components and converted HTML to JSX." />
+    <MESSAGE value="Day 64. Setup for day 64." />
+    <MESSAGE value="Day 64. React challenges. JS in JSX with curly braces." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 64. React challenges. JS in JSX with curly braces." />
+  </component>
+</project>
