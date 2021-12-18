@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 63: December 17, 2021
+
+**Today's Progress:** React. Created new components and converted HTML to JSX.
+
+**Thoughts:** More React challenges.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 62: December 16, 2021
 
 **Today's Progress:** React. Splitting components further using default and named exports.
