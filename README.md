@@ -2,9 +2,9 @@
 
 ### Day 64: December 18, 2021
 
-**Today's Progress:** React. 
+**Today's Progress:** React. JS logic and variables into markup, fixed mistakes, extracted info into objects, writing expressions inside JSX.
 
-**Thoughts:** 
+**Thoughts:** Another day with React challenges. I feel like making a real project, but I know this is good for me too.
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
