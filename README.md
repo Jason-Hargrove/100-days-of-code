@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 65: December 19, 2021
+
+**Today's Progress:** Webstorm, React. Customized Webstorm, troubleshot React components.
+
+**Thoughts:** Spent some time tweaking my IDE and playing around with some features. Made a mess out of a couple of components previously that cost me time today.
+
 ### Day 64: December 18, 2021
 
 **Today's Progress:** React. JS logic and variables into markup, fixed mistakes, extracted info into objects, writing expressions inside JSX.
