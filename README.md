@@ -1,10 +1,20 @@
 # 100 Days Of Code - logs
 
+### Day 67: December 21, 2021
+
+**Today's Progress:** React. Same thing I did yesterday - made more components, passed props - and started extracting a component.
+
+**Thoughts:** A bit harder to focus when I don't get up early. It's good to sleep in once in a while. Still going to code, but I'm taking it easy this week.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 66: December 20, 2021
 
 **Today's Progress:** React. Made more components, passed props.
 
 **Thoughts:** Busy day, but managed to code a little.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
 ### Day 65: December 19, 2021
 
