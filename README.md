@@ -4,7 +4,7 @@
 
 **Today's Progress:** React. Same thing I did yesterday - made more components, passed props - and started extracting a component.
 
-**Thoughts:** A bit harder to focus when I don't get up early. It's good to sleep in once in a while. Still going to code, but I'm taking it easy this week.
+**Thoughts:** A bit harder to focus when I don't get up early. It's good to sleep in sometimes. Still going to code, but I'm taking it easy this week.
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
