@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 66: December 20, 2021
+
+**Today's Progress:** React. Made more components, passed props.
+
+**Thoughts:** Busy day, but managed to code a little.
+
 ### Day 65: December 19, 2021
 
 **Today's Progress:** Webstorm, React. Customized Webstorm, troubleshot React components.
