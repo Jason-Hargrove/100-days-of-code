@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 66. React. Made components, passed props.">
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 67. React. Made components, passed props, extracting a component.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -57,7 +57,8 @@
       <workItem from="1639835012993" duration="2137000" />
       <workItem from="1639928893858" duration="1917000" />
       <workItem from="1640045050209" duration="523000" />
-      <workItem from="1640110522163" duration="1274000" />
+      <workItem from="1640110522163" duration="1424000" />
+      <workItem from="1640214950660" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
       <created>1638412366380</created>
@@ -206,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640117734413</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Day 67. React. Made components, passed props, extracting a component.">
+      <created>1640117815802</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1640117815802</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +252,7 @@
     <MESSAGE value="Day 64. React challenges. JS in JSX with curly braces." />
     <MESSAGE value="Day 65. Webstorm, React. Troubleshot components." />
     <MESSAGE value="Day 66. React. Made components, passed props." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 66. React. Made components, passed props." />
+    <MESSAGE value="Day 67. React. Made components, passed props, extracting a component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 67. React. Made components, passed props, extracting a component." />
   </component>
 </project>

@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 68: December 22, 2021
+
+**Today's Progress:** React. Extracting components to reduce duplication. 
+
+**Thoughts:** Realized I overkilled a bit with map and reduce, when all I needed was join. Got to keep it clean!
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 67: December 21, 2021
 
 **Today's Progress:** React. Same thing I did yesterday - made more components, passed props - and started extracting a component.
