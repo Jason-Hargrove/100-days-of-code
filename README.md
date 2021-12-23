@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 69: December 23, 2021
+
+**Today's Progress:** React. Adjusted image size based on a prop, and passing JSX in a children prop.
+
+**Thoughts:** Second guessed myself a lot today. Got to stop that. 
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 68: December 22, 2021
 
 **Today's Progress:** React. Extracting components to reduce duplication. 
