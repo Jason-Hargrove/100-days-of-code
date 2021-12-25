@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 70: December 24, 2021
+
+**Today's Progress:** React. Added conditional rendering. Conditionally returned nothing with null. Compacted with ternary operator.
+
+**Thoughts:** I've been in front of a screen of some kind all day long. It's not over yet.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 69: December 23, 2021
 
 **Today's Progress:** React. Adjusted image size based on a prop, and passing JSX in a children prop.
