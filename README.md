@@ -2,6 +2,14 @@
 
 ### Day 71: December 25, 2021
 
+**Today's Progress:** React and .map(). Created two drink list components, created drink arrays, used map on the first, a basic if statement on the second. 
+
+**Thoughts:** Had a few issues with map, but of course it was just a misspelling. Look at those error logs!
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
+### Day 71: December 25, 2021
+
 **Today's Progress:** React. Added del tag and made more lines. Logical AND operator. Conditionally assigned JSX to variable. Showed an icon for incomplete items with ? :.
 
 **Thoughts:** Taking it easy.
