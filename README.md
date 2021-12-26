@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 71: December 25, 2021
+
+**Today's Progress:** React. Added del tag and made more lines. Logical AND operator. Conditionally assigned JSX to variable. Showed an icon for incomplete items with ? :.
+
+**Thoughts:** Taking it easy.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 70: December 24, 2021
 
 **Today's Progress:** React. Added conditional rendering. Conditionally returned nothing with null. Compacted with ternary operator.

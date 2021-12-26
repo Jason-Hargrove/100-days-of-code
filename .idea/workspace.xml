@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 70.">
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 70. React Added conditional rendering, returned with null. Compacted with ternary operator.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -60,7 +60,8 @@
       <workItem from="1640110522163" duration="1424000" />
       <workItem from="1640214950660" duration="871000" />
       <workItem from="1640268910128" duration="1004000" />
-      <workItem from="1640391891734" duration="773000" />
+      <workItem from="1640391891734" duration="1031000" />
+      <workItem from="1640486943526" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
       <created>1638412366380</created>
@@ -230,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640285019350</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Day 70. React Added conditional rendering, returned with null. Compacted with ternary operator.">
+      <created>1640394605520</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1640394605520</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +279,7 @@
     <MESSAGE value="Day 67. React. Made components, passed props, extracting a component." />
     <MESSAGE value="Day 68. React. Extracting components to reduce duplication." />
     <MESSAGE value="Day 69. Adjusted image size based on a prop and pass JSX in children prop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 69. Adjusted image size based on a prop and pass JSX in children prop." />
+    <MESSAGE value="Day 70. React Added conditional rendering, returned with null. Compacted with ternary operator." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 70. React Added conditional rendering, returned with null. Compacted with ternary operator." />
   </component>
 </project>
