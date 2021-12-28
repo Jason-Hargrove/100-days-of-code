@@ -8,6 +8,14 @@
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
+### Day 73: December 27, 2021
+
+**Today's Progress:** React. Created new lists. Used map() and filter() on list, fixed bugs.
+
+**Thoughts:** Not exactly at a good stopping point, but feel a bit done after fixing the bugs. Think I'm going to put the data into separate js files.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 72: December 26, 2021
 
 **Today's Progress:** React and .map(). Created two drink list components, created drink arrays, used map on the first, a basic if statement on the second. 
