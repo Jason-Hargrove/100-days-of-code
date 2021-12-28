@@ -1,10 +1,10 @@
 # 100 Days Of Code - logs
 
-### Day 73: December 27, 2021
+### Day 74: December 28, 2021
 
-**Today's Progress:** React. Created new lists. Used map() and filter() on list, fixed bugs.
+**Today's Progress:** React. Moved data out of components and into data structure. Generated sets of similar components with map() and filter().
 
-**Thoughts:** Not exactly at a good stopping point, but feel a bit done after fixing the bugs. Think I'm going to put the data into separate js files.
+**Thoughts:** Got up early, and spent some extra time.
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
