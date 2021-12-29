@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 75: December 29, 2021
+
+**Today's Progress:** React. Split a list in two using filter() twice, creating two separate arrays, and map() over both of them.
+
+**Thoughts:** Dove a bit deeper into the CSS than I intended, but it was fun.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 74: December 28, 2021
 
 **Today's Progress:** React. Moved data out of components and into data structure. Generated sets of similar components with map() and filter().
