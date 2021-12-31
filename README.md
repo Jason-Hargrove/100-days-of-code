@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 76: December 30, 2021
+
+**Today's Progress:** React. Extracted repetitive parts into a component.
+
+**Thoughts:** Got to it a bit late, but managed to beat the clock.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
+
 ### Day 75: December 29, 2021
 
 **Today's Progress:** React. Split a list in two using filter() twice, creating two separate arrays, and map() over both of them.
