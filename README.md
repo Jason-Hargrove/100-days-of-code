@@ -2,9 +2,9 @@
 
 ### Day 78: January 1, 2022
 
-**Today's Progress:** React. 
+**Today's Progress:** React challenge: Nesting lists in one component.
 
-**Thoughts:** 
+**Thoughts:** Struggling a bit today. When everything seemed like it should work, it didn't. I read a walk through, and I swear I was doing the same thing...it worked. So, I'll compare them tomorrow.
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
 

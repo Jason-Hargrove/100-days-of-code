@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 77. Split list in two. Replaced the two filter() with an if statement." />
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 78. Setup for day 78. GitHub test.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +69,7 @@
       <workItem from="1640789083744" duration="1091000" />
       <workItem from="1640924956213" duration="882000" />
       <workItem from="1640996455500" duration="815000" />
+      <workItem from="1641056475654" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
       <created>1638412366380</created>
@@ -298,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640997747445</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Day 78. Setup for day 78. GitHub test.">
+      <created>1641056668696</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1641056668696</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +328,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 52. Working with frequency counters." />
     <MESSAGE value="Day 53. Studied React price list / item search app. Working on static version." />
     <MESSAGE value="Day 53. Searchable product data table with React. Static version complete." />
     <MESSAGE value="Day 55. Searchable product data table with React. Found minimal representation of UI state, and added inverse data flow." />
@@ -342,6 +352,7 @@
     <MESSAGE value="Day 75. React. map() and filter(), split list." />
     <MESSAGE value="Day 76. Extracted repetitive parts into a component." />
     <MESSAGE value="Day 77. Split list in two. Replaced the two filter() with an if statement." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 77. Split list in two. Replaced the two filter() with an if statement." />
+    <MESSAGE value="Day 78. Setup for day 78. GitHub test." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 78. Setup for day 78. GitHub test." />
   </component>
 </project>
