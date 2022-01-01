@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 75. React. map() and filter(), split list.">
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 76. Extracted repetitive parts into a component.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,8 @@
       <workItem from="1640697767026" duration="83000" />
       <workItem from="1640697901526" duration="1463000" />
       <workItem from="1640789083744" duration="1091000" />
-      <workItem from="1640924956213" duration="574000" />
+      <workItem from="1640924956213" duration="882000" />
+      <workItem from="1640996455500" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
       <created>1638412366380</created>
@@ -285,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640794954008</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Day 76. Extracted repetitive parts into a component.">
+      <created>1640926600014</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1640926600014</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +313,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 50. Refactored function." />
     <MESSAGE value="Day 51. Working with frequency counters." />
     <MESSAGE value="Day 52. Working with frequency counters." />
     <MESSAGE value="Day 53. Studied React price list / item search app. Working on static version." />
@@ -329,6 +337,7 @@
     <MESSAGE value="Day 73. React. map(), filter(), created more data." />
     <MESSAGE value="Day 74. React. Moved data out of components and into data structure." />
     <MESSAGE value="Day 75. React. map() and filter(), split list." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 75. React. map() and filter(), split list." />
+    <MESSAGE value="Day 76. Extracted repetitive parts into a component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 76. Extracted repetitive parts into a component." />
   </component>
 </project>

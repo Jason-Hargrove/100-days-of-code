@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 77: December 31, 2021
+
+**Today's Progress:** React. Split in two. Replaced the two filter() with an if statement.
+
+**Thoughts:** Taking it easy.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
+
 ### Day 76: December 30, 2021
 
 **Today's Progress:** React. Extracted repetitive parts into a component.
