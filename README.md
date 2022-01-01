@@ -1,10 +1,10 @@
 # 100 Days Of Code - logs
 
-### Day 77: December 31, 2021
+### Day 78: January 1, 2022
 
-**Today's Progress:** React. Split in two. Replaced the two filter() with an if statement.
+**Today's Progress:** React. 
 
-**Thoughts:** Taking it easy.
+**Thoughts:** 
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
 
