@@ -1,10 +1,10 @@
 # 100 Days Of Code - logs
 
-### Day 78: January 1, 2022
+### Day 79: January 2, 2022
 
-**Today's Progress:** React challenge: Nesting lists in one component.
+**Today's Progress:** React challenge: Nesting lists in one component, day 2. Dried out the code.
 
-**Thoughts:** Struggling a bit today. When everything seemed like it should work, it didn't. I read a walk through, and I swear I was doing the same thing...it worked. So, I'll compare them tomorrow.
+**Thoughts:** Had a couple of "Aha!" moments. Love those things!
 
 **Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
 
