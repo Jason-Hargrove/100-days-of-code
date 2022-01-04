@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 78. React challenge: Nesting lists in one component.">
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 79. React challenge: Nesting lists in one component, day 2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -70,7 +70,8 @@
       <workItem from="1640924956213" duration="882000" />
       <workItem from="1640996455500" duration="815000" />
       <workItem from="1641056475654" duration="1098000" />
-      <workItem from="1641142759010" duration="788000" />
+      <workItem from="1641142759010" duration="897000" />
+      <workItem from="1641269096146" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
       <created>1638412366380</created>
@@ -317,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641063970924</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Day 79. React challenge: Nesting lists in one component, day 2.">
+      <created>1641146347147</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1641146347147</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +344,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 53. Searchable product data table with React. Static version complete." />
     <MESSAGE value="Day 55. Searchable product data table with React. Found minimal representation of UI state, and added inverse data flow." />
     <MESSAGE value="Day 56. Foreach and filter practice." />
     <MESSAGE value="Day 60. NPM, created a React app, and one component." />
@@ -361,6 +368,7 @@
     <MESSAGE value="Day 77. Split list in two. Replaced the two filter() with an if statement." />
     <MESSAGE value="Day 78. Setup for day 78. GitHub test." />
     <MESSAGE value="Day 78. React challenge: Nesting lists in one component." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 78. React challenge: Nesting lists in one component." />
+    <MESSAGE value="Day 79. React challenge: Nesting lists in one component, day 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 79. React challenge: Nesting lists in one component, day 2." />
   </component>
 </project>

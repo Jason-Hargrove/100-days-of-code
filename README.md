@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 80: January 3, 2022
+
+**Today's Progress:** Brushed up on Node.js concepts, and began studying MS Azure.
+
+**Thoughts:** A lot of reading and listening today.
+
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
+
 ### Day 79: January 2, 2022
 
 **Today's Progress:** React challenge: Nesting lists in one component, day 2. Dried out the code.
