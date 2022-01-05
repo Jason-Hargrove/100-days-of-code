@@ -1,12 +1,16 @@
 # 100 Days Of Code - logs
 
+### Day 81: January 4, 2022
+
+**Today's Progress:** MS Azure cloud concepts. Intro to cloud computing, types of cloud computing services, and deployment models.
+
+**Thoughts:**  More listening and reading today.
+
 ### Day 80: January 3, 2022
 
 **Today's Progress:** Brushed up on Node.js concepts, and began studying MS Azure.
 
 **Thoughts:** A lot of reading and listening today.
-
-**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
 
 ### Day 79: January 2, 2022
 
