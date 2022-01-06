@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 82: January 5, 2022
+
+**Today's Progress:** MS Azure cloud concepts.
+
+**Thoughts:**  Same thing as yesterday, but a bit more in-depth.
+
 ### Day 81: January 4, 2022
 
 **Today's Progress:** MS Azure cloud concepts. Intro to cloud computing, types of cloud computing services, and deployment models.
