@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 83: January 6, 2022
+
+**Today's Progress:** Styled disabled components, and fixed routing issue in React. Tested GET request of an API in Postman. Updated Nodejs on Ubuntu laptop, and created a new react app. 
+
+**Thoughts:**  I feel like I've been in the terminal moset the day - or looking at it.
+
 ### Day 82: January 5, 2022
 
 **Today's Progress:** MS Azure cloud concepts.
