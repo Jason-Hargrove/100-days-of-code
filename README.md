@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 84: January 7, 2022
+
+**Today's Progress:** Cloned repo, spun up, and studied the code. Studied Azure.
+
+**Thoughts:** Planning and plotting. 
+
 ### Day 83: January 6, 2022
 
 **Today's Progress:** Styled disabled components, and fixed routing issue in React. Tested GET request of an API in Postman. Updated Nodejs on Ubuntu laptop, and created a new react app. 
