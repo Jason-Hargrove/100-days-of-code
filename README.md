@@ -4,7 +4,7 @@
 
 **Today's Progress:** Created a workflow to enable watching, compiling and exporting .scss files to import them as .css without having to eject.
 
-**Thoughts:** Had to trouble shoot a little. Not 100% sure what fixed it, but I'm I think reinstalling node-sass-chokidar did the trick.
+**Thoughts:** Had to troubleshoot a little. Not 100% sure what fixed it, but I'm I think reinstalling node-sass-chokidar did the trick.
 
 **Link to work:** [card-app](https://github.com/Jason-Hargrove/card-app.git)
 
