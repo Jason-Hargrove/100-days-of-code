@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 86: January 9, 2022
+
+**Today's Progress:** Created a workflow to enable watching, compiling and exporting .scss files to import them as .css without having to eject.
+
+**Thoughts:** Had to trouble shoot a little. Not 100% sure what fixed it, but I'm I think reinstalling node-sass-chokidar did the trick.
+
+**Link to work:** [card-app](https://github.com/Jason-Hargrove/card-app.git)
+
 ### Day 85: January 8, 2022
 
 **Today's Progress:** Updating Ubuntu and setting up environment. Installed VS Code and working with SCSS.
@@ -42,7 +50,7 @@
 
 **Thoughts:** Had a couple of "Aha!" moments. Love those things!
 
-**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git
+**Link to work:** [describing-the-ui](https://github.com/Jason-Hargrove/describing-the-ui.git)
 
 ### Day 76: December 30, 2021
 
