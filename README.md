@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 85: January 8, 2022
+
+**Today's Progress:** Updating Ubuntu and setting up enviroment. Installed VS Code and working with SCSS.
+
+**Thoughts:** Everytinme I think I'm ready to go with my Linux laptop, seems like I have to update 50000 things.
+
 ### Day 84: January 7, 2022
 
 **Today's Progress:** Cloned repo, spun up, and studied the code. Studied Azure.
