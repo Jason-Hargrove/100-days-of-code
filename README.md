@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 87: January 10, 2022
+
+**Today's Progress:** Worked on styling components with scss.
+
+**Thoughts:** Busy day.
+
 ### Day 86: January 9, 2022
 
 **Today's Progress:** Created a workflow to enable watching, compiling and exporting .scss files to import them as .css without having to eject.
