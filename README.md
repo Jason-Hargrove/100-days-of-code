@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 88: January 11, 2022
+
+**Today's Progress:** Troubleshot project and studied defining an application and managing dependencies in Node.js.
+
+**Thoughts:** I rearranged my workstation for the third time this week. I may do it again tomorrow.
+
 ### Day 87: January 10, 2022
 
 **Today's Progress:** Worked on styling components with scss.
