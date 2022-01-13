@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 89: January 12, 2022
+
+**Today's Progress:** Troubleshot project and added styling to components with SCSS. Began studying backend of project.
+
+**Thoughts:** Thinking about the new flow. I'm going to start scheduling time for art again. I need to rethink my time blocking, and specifically study time.
+
 ### Day 88: January 11, 2022
 
 **Today's Progress:** Troubleshot project and studied defining an application and managing dependencies in Node.js.
