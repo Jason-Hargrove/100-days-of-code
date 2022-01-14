@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 90: January 13, 2022
+
+**Today's Progress:** Studied backend code of project, overview of assembling a dev toolset in Node.js, overview of Azure CDN.
+
+**Thoughts:** I'm at 90!?
+
 ### Day 89: January 12, 2022
 
 **Today's Progress:** Troubleshot project and added styling to components with SCSS. Began studying backend of project.
