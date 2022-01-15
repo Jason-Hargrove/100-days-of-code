@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 91: January 14, 2022
+
+**Today's Progress:** Studied React Bootstrap. Looked at tradeoffs between React and popular frameworks.
+
+**Thoughts:** Feeling ready for the weekend, but the studying doesn't stop.
+
 ### Day 90: January 13, 2022
 
 **Today's Progress:** Studied backend code of project, overview of assembling a dev toolset in Node.js, overview of Azure CDN.
