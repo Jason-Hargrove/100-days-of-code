@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 92: January 15, 2022
+
+**Today's Progress:** Overview of Cosmos DB and Azure SQL Database. 
+
+**Thoughts:** Finally got my desk set up the way I want it! ...For now.
+
 ### Day 91: January 14, 2022
 
 **Today's Progress:** Studied React Bootstrap. Looked at tradeoffs between React and popular frameworks.
