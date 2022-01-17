@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 93: January 16, 2022
+
+**Today's Progress:** React useState() hook practice.
+
+**Thoughts:** Nothing I haven't done before, but always good to brush up, and see diffrent prospectives.
+
+**Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
+
 ### Day 92: January 15, 2022
 
 **Today's Progress:** Overview of Cosmos DB and Azure SQL Database. 
