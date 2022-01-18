@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 94: January 17, 2022
+
+**Today's Progress:** Working with React Bootstrap. Made a dispaly React componet for a counter.
+
+**Thoughts:** So many ways to do the same thing.
+
+**Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
+
 ### Day 93: January 16, 2022
 
 **Today's Progress:** React useState() hook practice.
