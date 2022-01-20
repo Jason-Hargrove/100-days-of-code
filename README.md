@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 96: January 19, 2022
+
+**Today's Progress:** Finished making first set of tabs with React Bootstrap. Practice working with classes.
+
+**Thoughts:** So very sleepy.
+
+**Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
+
 ### Day 95: January 18, 2022
 
 **Today's Progress:** Making tabs with React Bootstrap. Practice destructuring arrays and objects.
