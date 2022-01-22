@@ -2,7 +2,7 @@
 
 ### Day 98: January 21, 2022
 
-**Today's Progress:** Fetch API andn practice with promises. Styling text, columns and rows with React Bootstrap.
+**Today's Progress:** Fetch API and practice with promises. Styling text, columns and rows with React Bootstrap.
 
 **Thoughts:** It's cold.
 
