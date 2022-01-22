@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 98: January 21, 2022
+
+**Today's Progress:** Fetch API andn practice with promises. Styling text, columns and rows with React Bootstrap.
+
+**Thoughts:** It's cold.
+
+**Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
+
 ### Day 97: January 20, 2022
 
 **Today's Progress:** Created another set of tabs with React Bootstrap. 
