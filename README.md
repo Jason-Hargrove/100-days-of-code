@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 99: January 22, 2022
+
+**Today's Progress:** Added two React components to app and styled.
+
+**Thoughts:** One more day!
+
+**Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
+
 ### Day 98: January 21, 2022
 
 **Today's Progress:** Fetch API and practice with promises. Styling text, columns and rows with React Bootstrap.
