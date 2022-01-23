@@ -4,7 +4,7 @@
 
 **Today's Progress:** Added styles to React components. Added conditional styling.
 
-**Thoughts:** Last day! I'll carry on commiting to GitHub, but I'll stop postinng what I did on Twitter and LinkedIn.
+**Thoughts:** Last day! I'll carry on commiting to GitHub, but stop postinng what I did on Twitter and LinkedIn.
 
 **Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
 
