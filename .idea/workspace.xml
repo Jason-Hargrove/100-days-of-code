@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 80. Brushed up on Node.js concepts, and began studying MS Azure." />
+    <list default="true" id="374f99d8-5b26-441c-a511-d26e9b1639be" name="Changes" comment="Day 81. MS Azure cloud concepts." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +69,7 @@
       <workItem from="1641056475654" duration="1098000" />
       <workItem from="1641142759010" duration="897000" />
       <workItem from="1641269096146" duration="470000" />
+      <workItem from="1641354388078" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Day 47. Finished Angular task tracker.">
       <created>1638412366380</created>
@@ -329,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641269282459</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Day 81. MS Azure cloud concepts.">
+      <created>1641354620139</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1641354620139</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +356,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 56. Foreach and filter practice." />
     <MESSAGE value="Day 60. NPM, created a React app, and one component." />
     <MESSAGE value="Setup for day 61." />
     <MESSAGE value="Setup for day 61. React Challenges." />
@@ -373,6 +380,7 @@
     <MESSAGE value="Day 78. React challenge: Nesting lists in one component." />
     <MESSAGE value="Day 79. React challenge: Nesting lists in one component, day 2." />
     <MESSAGE value="Day 80. Brushed up on Node.js concepts, and began studying MS Azure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 80. Brushed up on Node.js concepts, and began studying MS Azure." />
+    <MESSAGE value="Day 81. MS Azure cloud concepts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 81. MS Azure cloud concepts." />
   </component>
 </project>

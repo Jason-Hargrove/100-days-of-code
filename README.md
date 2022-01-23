@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 100: January 23, 2022
+
+**Today's Progress:** Added styles to React components. Added conditional styling.
+
+**Thoughts:** Last day! I'll carry on commiting to GitHub, but I'll stop postinng what I did on Twitter and LinkedIn.
+
+**Link to work:** [react-getting-started](https://github.com/Jason-Hargrove/react-getting-started.git)
+
 ### Day 99: January 22, 2022
 
 **Today's Progress:** Added two React components to app and styled.
